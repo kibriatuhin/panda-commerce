@@ -1,0 +1,22 @@
+.panda-card{
+    border: 0;
+    
+}
+.panda-card-footer{
+    border: 0;
+    background-color: white;
+}
+.headphone-slide{
+    color: white;
+    background-color: rgb(154, 2, 241);
+}
+.xbox-slide{
+    color: white;
+    background-color: rgb(8, 102, 243);
+}
+.tv-slide{
+    background-color: rgb(251, 233, 233);
+}
+.banner{
+    border-radius: 12px;
+}
